@@ -1,0 +1,10 @@
+INFO:root:Creation of 32 bit srec file:  "D:\PROGRA~1\IARSYS~1\EMBEDD~1.1\arm/bin/ielftool.exe" "ncp-uart-hw-efr32mg13.out" --srec --srec-s3only "ncp-uart-hw-efr32mg13.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ncp-uart-hw-efr32mg13.gbl" --app "ncp-uart-hw-efr32mg13.s37" --device EFR32MG13P732F512GM48
+INFO:root:Creation of 32 bit srec file:  "D:\PROGRA~1\IARSYS~1\EMBEDD~1.1\arm/bin/ielftool.exe" "ncp-uart-hw-efr32mg13.out" --srec --srec-s3only "ncp-uart-hw-efr32mg13.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ncp-uart-hw-efr32mg13.gbl" --app "ncp-uart-hw-efr32mg13.s37" --device EFR32MG13P732F512GM48
+INFO:root:Creation of 32 bit srec file:  "D:\PROGRA~1\IARSYS~1\EMBEDD~1.1\arm/bin/ielftool.exe" "ncp-uart-hw-efr32mg13.out" --srec --srec-s3only "ncp-uart-hw-efr32mg13.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ncp-uart-hw-efr32mg13.gbl" --app "ncp-uart-hw-efr32mg13.s37" --device EFR32MG13P732F512GM48
+INFO:root:Creation of 32 bit srec file:  "D:\PROGRA~1\IARSYS~1\EMBEDD~1.1\arm/bin/ielftool.exe" "ncp-uart-hw-efr32mg13.out" --srec --srec-s3only "ncp-uart-hw-efr32mg13.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ncp-uart-hw-efr32mg13.gbl" --app "ncp-uart-hw-efr32mg13.s37" --device EFR32MG13P732F512GM48
+INFO:root:Creation of 32 bit srec file:  "D:\PROGRA~1\IARSYS~1\EMBEDD~1.1\arm/bin/ielftool.exe" "ncp-uart-hw-efr32mg13.out" --srec --srec-s3only "ncp-uart-hw-efr32mg13.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ncp-uart-hw-efr32mg13.gbl" --app "ncp-uart-hw-efr32mg13.s37" --device EFR32MG13P732F512GM48
